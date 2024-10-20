@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 <hr>
-# Things Learned from this Project
+<h1> Things Learned from this Project</h1>
 
 - React Components
 - Using useStates and handling sideeffects by using useEffect
